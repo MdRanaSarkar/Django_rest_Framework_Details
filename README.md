@@ -5,4 +5,5 @@ Following the instructions:
 4) Install PostgreSQL & psycopg2
 5) create database and setup all to settings .
 6) Create model & just migrate & run.
+7)make serializers ,viewsets & router and follow the videos
 7 ) Great Congress .
